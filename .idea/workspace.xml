@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ebbedd-93ab-4bac-b11b-bff366d3b334" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApiDemos-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/General-Store.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/dragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/gestures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/scrollDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidEmulator/swipeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidRealDevice/baseChrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidRealDevice/browse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/androidRealDevice/crizbuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/addingProductToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/amountOfMultipleProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/fillingForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/hybridAppWithContextSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/android_e_commerce/toastMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ios/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ios/clickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ios/longPress_Tap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ios/scroll_picker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ios/slider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mobile/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mobile/Calculator.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qUzRqOS3dNkiLmJO6S8kNZqnAv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/androidEmulator" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hybridAppWithContextSwitch">
+    <configuration name="addingProductToCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="android_e_commerce.addingProductToCart" />
+      <module name="MobileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="android_e_commerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="amountOfMultipleProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="android_e_commerce.amountOfMultipleProducts" />
+      <module name="MobileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="android_e_commerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="androidEmulator.dragAndDrop" />
+      <module name="MobileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="androidRealDevice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fillingForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="android_e_commerce.fillingForm" />
+      <module name="MobileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="android_e_commerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hybridAppWithContextSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="android_e_commerce.hybridAppWithContextSwitch" />
+      <module name="MobileTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="android_e_commerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hybridAppWithContextSwitch" />
+        <item itemvalue="Application.amountOfMultipleProducts" />
+        <item itemvalue="Application.addingProductToCart" />
+        <item itemvalue="Application.fillingForm" />
+        <item itemvalue="Application.dragAndDrop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ebbedd-93ab-4bac-b11b-bff366d3b334" name="Default Changelist" comment="" />
+      <created>1617148950096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617148950096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617152122074">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="344" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.986@0.23.1680.986" timestamp="1617152122074" />
+    <state width="712" height="250" key="GridCell.Tab.0.bottom" timestamp="1617580511973">
+      <screen x="0" y="23" width="1680" height="989" />
+    </state>
+    <state width="1213" height="250" key="GridCell.Tab.0.bottom/0.23.1680.987@0.23.1680.987" timestamp="1617459645802" />
+    <state width="979" height="250" key="GridCell.Tab.0.bottom/0.23.1680.988@0.23.1680.988" timestamp="1617478687756" />
+    <state width="712" height="250" key="GridCell.Tab.0.bottom/0.23.1680.989@0.23.1680.989" timestamp="1617580511973" />
+    <state width="712" height="250" key="GridCell.Tab.0.center" timestamp="1617580511972">
+      <screen x="0" y="23" width="1680" height="989" />
+    </state>
+    <state width="1213" height="250" key="GridCell.Tab.0.center/0.23.1680.987@0.23.1680.987" timestamp="1617459645798" />
+    <state width="979" height="250" key="GridCell.Tab.0.center/0.23.1680.988@0.23.1680.988" timestamp="1617478687755" />
+    <state width="712" height="250" key="GridCell.Tab.0.center/0.23.1680.989@0.23.1680.989" timestamp="1617580511972" />
+    <state width="712" height="250" key="GridCell.Tab.0.left" timestamp="1617580511971">
+      <screen x="0" y="23" width="1680" height="989" />
+    </state>
+    <state width="1213" height="250" key="GridCell.Tab.0.left/0.23.1680.987@0.23.1680.987" timestamp="1617459645796" />
+    <state width="979" height="250" key="GridCell.Tab.0.left/0.23.1680.988@0.23.1680.988" timestamp="1617478687755" />
+    <state width="712" height="250" key="GridCell.Tab.0.left/0.23.1680.989@0.23.1680.989" timestamp="1617580511971" />
+    <state width="712" height="250" key="GridCell.Tab.0.right" timestamp="1617580511973">
+      <screen x="0" y="23" width="1680" height="989" />
+    </state>
+    <state width="1213" height="250" key="GridCell.Tab.0.right/0.23.1680.987@0.23.1680.987" timestamp="1617459645802" />
+    <state width="979" height="250" key="GridCell.Tab.0.right/0.23.1680.988@0.23.1680.988" timestamp="1617478687756" />
+    <state width="712" height="250" key="GridCell.Tab.0.right/0.23.1680.989@0.23.1680.989" timestamp="1617580511973" />
+    <state x="506" y="79" key="Maven.ArtifactSearchDialog" timestamp="1617195337048">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="506" y="79" key="Maven.ArtifactSearchDialog/0.23.1680.986@0.23.1680.986" timestamp="1617195337048" />
+    <state x="112" y="23" key="SettingsEditor" timestamp="1617196028978">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="112" y="23" key="SettingsEditor/0.23.1680.986@0.23.1680.986" timestamp="1617196028978" />
+    <state x="634" y="438" key="com.intellij.ide.util.TipDialog" timestamp="1617195823233">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="634" y="438" key="com.intellij.ide.util.TipDialog/0.23.1680.986@0.23.1680.986" timestamp="1617195823233" />
+  </component>
+</project>
